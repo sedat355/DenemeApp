@@ -1,2 +1,2 @@
 # TodoListApp
-### <a href="https://codepen.io/Sedat35/pen/mdjvLYv">Open in codepen</a>
+### <a href="[https://codepen.io/Sedat35/pen/mdjvLYv](https://codepen.io/Sedat35/pen/xxJMzVj)">Open in codepen</a>
